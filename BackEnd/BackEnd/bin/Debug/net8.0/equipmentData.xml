@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employees>
+    <Employee>
+      <Id>1</Id>
+      <Name>Dima</Name>
+    </Employee>
+  </Employees>
+  <Computers />
+  <Printers />
+</EquipmentData>
